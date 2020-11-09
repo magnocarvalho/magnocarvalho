@@ -1,8 +1,8 @@
 ### Hello 
 
-Sou formado em Engenharia de Software na UTFPR no Campus de Cornélio Procópio e atualmente sou aluno do Mestrado Profissional em Informática na UTFPR no mesmo campus, realizando pesquisa dentro a areá de estudos da Engenharia de Software e Gestão de Conhecimento em empresas de desenvolvimento software, tenho experiencia profissional como analista desenvolvedor em projetos WEB, Games e Aplicativos, já trabalhei com diversas tecnologias do mercado entres as tecnologias a minha melhor skills são com as tecnologias relacionada com o conceito MEAN STACK.
+Sou formado em Engenharia de Software na UTFPR no Campus de Cornélio Procópio e atualmente sou aluno do Mestrado Profissional em Informática na UTFPR no mesmo campus, realizando pesquisa acadêmica sobre Gestão de Conhecimento em empresas de desenvolvimento software, tenho experiência profissional como analista e desenvolvedor em projetos de Sites, Games e Aplicativos, já trabalhei com diversas tecnologias do mercado.
 
-Atualmente estou tentado conquistar o mundo batalhando um dia de cada vez 
+Atualmente estou tentado conquistar o mundo batalhando um dia de cada vez. 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/magnocarvalho)](https://github.com/magnocarvalho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnocarv/)](https://www.linkedin.com/in/magnocarv/)
