@@ -4,16 +4,17 @@ Sou formado em Engenharia de Software na UTFPR no Campus de Cornélio Procópio 
 
 Atualmente estou tentado conquistar o mundo batalhando um dia de cada vez. 
 
+<br/>
 <h2>📊 GitHub Stats</h2>
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/magnocarvalho/">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnocarvalho&hide=html&layout=compact&bg_color=0e0e0e&text_color=c9cacc&title_color=fff"  />
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnocarvalho&hide=html&layout=compact&bg_color=0e0e0e&text_color=c9cacc&title_color=fff"  />
   </a>
   <a href="https://github.com/lucasalme1da">
-    <img height="180px"src="https://github-readme-stats.vercel.app/api?username=magnocarvalho&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=c9cacc&icon_color=da1e5b&bg_color=0e0e0e" alt="Martin's GitHub Stats" />
+    <img height="100px"src="https://github-readme-stats.vercel.app/api?username=magnocarvalho&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=c9cacc&icon_color=da1e5b&bg_color=0e0e0e" alt="Martin's GitHub Stats" />
   </a>
 </p>
-
+<br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/magnocarvalho)](https://github.com/magnocarvalho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnocarv/)](https://www.linkedin.com/in/magnocarv/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magnosantos@alunos.utfpr.edu.br)](mailto:magnosantos@alunos.utfpr.edu.br)
