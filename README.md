@@ -8,10 +8,10 @@ Atualmente estou tentado conquistar o mundo batalhando um dia de cada vez.
 <h2>📊 GitHub Stats</h2>
 <p align="left"> 
   <a href="https://github.com/magnocarvalho/">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnocarvalho&hide=html&layout=compact&bg_color=0e0e0e&text_color=c9cacc&title_color=fff"  />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnocarvalho&hide=html&layout=compact&bg_color=0e0e0e&text_color=c9cacc&title_color=fff"  />
   </a>
   <a href="https://github.com/lucasalme1da">
-    <img height="150px"src="https://github-readme-stats.vercel.app/api?username=magnocarvalho&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=c9cacc&icon_color=da1e5b&bg_color=0e0e0e" alt="Martin's GitHub Stats" />
+    <img height="160px"src="https://github-readme-stats.vercel.app/api?username=magnocarvalho&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=c9cacc&icon_color=da1e5b&bg_color=0e0e0e" alt="Martin's GitHub Stats" />
   </a>
 </p>
 <br/>
