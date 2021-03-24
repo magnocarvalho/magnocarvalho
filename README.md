@@ -1,8 +1,8 @@
 ### Hello 
 
-Sou formado em Engenharia de Software na UTFPR no Campus de Cornélio Procópio e atualmente sou aluno do Mestrado Profissional em Informática na UTFPR no mesmo campus, realizando pesquisa acadêmica sobre Gestão de Conhecimento em empresas de desenvolvimento software, tenho experiência profissional como analista e desenvolvedor em projetos de Sites, Games e Aplicativos, já trabalhei com diversas tecnologias do mercado.
+Ola, me chamo Magno Carvalho dos Santos, vulgo Magneira,  Sou formado em Engenharia de Software pela UTFPR e atuo como engenheiro de software na @ArboPlatform, tenho experiência profissional como analista e desenvolvedor em projetos de Sites, Games e Aplicativos, utilizando diversas tecnologias do mercado.
 
-Atualmente estou tentado conquistar o mundo batalhando um dia de cada vez. 
+Atualmente estou tentado conquistar o mundo.
 
 <br/>
 <h2>📊 GitHub Stats</h2>
