@@ -5,7 +5,7 @@ Ola, me chamo Magno Carvalho dos Santos, vulgo Magneira,  Sou formado em Engenha
 Atualmente estou tentado conquistar o mundo.
 
 <br/>
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Meus Projetos</h2>
 <p align="left"> 
   <a href="https://github.com/magnocarvalho/">
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnocarvalho&hide=html&layout=compact&bg_color=0e0e0e&text_color=c9cacc&title_color=fff"  />
