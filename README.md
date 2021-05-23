@@ -1,6 +1,8 @@
 ### Hello 
 
-Ola, me chamo Magno Carvalho dos Santos, vulgo Magneira,  Sou formado em Engenharia de Software pela UTFPR e atuo como Programador Pleno na @ArboPlatform, tenho experiência profissional como Analista e Desenvolvedor em projetos de Sites, Games e Aplicativos, utilizando diversas tecnologias do mercado.
+Ola! 
+
+Meu nome é Magno Carvalho dos Santos, vulgo Magneira, Sou formado em Engenharia de Software pela UTFPR e atuo como Programador Pleno na @ArboPlatform, tenho experiência profissional como Analista e Desenvolvedor em projetos de Sites, Games e Aplicativos, utilizando diversas tecnologias do mercado.
 
 Atualmente estou tentado conquistar todo o mundo como um super vilão. 🐱‍🏍
 
