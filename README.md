@@ -3,7 +3,7 @@
 
 Meu nome é Magno Carvalho dos Santos, vulgo Magneira, Sou formado em Engenharia de Software na UTFPR
 
-Sou Programador de dia e Forrozeiro fds, seja bem vindo ao meu mundo!  
+Sou Programador de dia e Forrozeiro fds, atualmente tentado conquistar o mundo igual um super vilão. 👨🏽‍💻!  
 
 <br/>
 <h2>📊 Meus Projetos</h2>
