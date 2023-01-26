@@ -1,12 +1,12 @@
-### Ola! 
+### Hello! 
 
 
-Meu nome é Magno Carvalho dos Santos, vulgo Magneira, Sou formado em Engenharia de Software na UTFPR
+My name is Magno Carvalho dos Santos, I'm a Software Engineer
 
-Sou Programador de dia e Forrozeiro fds, atualmente tentado conquistar o mundo igual um super vilão. 👨🏽‍💻!  
+Currently trying to conquer the world like a super villain. 👨🏽‍💻!
 
 <br/>
-<h2>📊 Meus Projetos</h2>
+<h2>📊 My Project</h2>
 <p align="left"> 
   <a href="https://github.com/magnocarvalho/">
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnocarvalho&hide=html&layout=compact&bg_color=0e0e0e&text_color=c9cacc&title_color=fff"  />
