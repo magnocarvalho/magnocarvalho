@@ -1,7 +1,7 @@
 ### Hello! 
 
 
-My name is Magno Carvalho dos Santos, I'm a Software Engineer
+My name is Magno, today a Software Engineer
 
 Currently trying to conquer the world like a super villain. 👨🏽‍💻!
 
