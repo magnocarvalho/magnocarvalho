@@ -16,6 +16,10 @@ Currently trying to conquer the world like a super villain. 👨🏽‍💻!
   </a>
 </p>
 <br/>
+<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=magnocarvalho&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+<br/>
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/magnocarvalho)](https://github.com/magnocarvalho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnocarv/)](https://www.linkedin.com/in/magnocarv/)
